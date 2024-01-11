@@ -11,5 +11,5 @@ xserve install
 ## SERVE LARAVEL WEBSITE
 
 ```
-./xampp-link.sh /path/to/your/website mywebsite
+xlaravel /path/to/your/website mywebsite
 ```
