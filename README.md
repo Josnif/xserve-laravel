@@ -5,11 +5,11 @@ XAMPP LARAVEL WEB SERVER CONFIGURATION
 ## INSTALL XSERVE
 
 ```
-xserve install
+cd xserve && install.sh
 ```
 
 ## SERVE LARAVEL WEBSITE
 
 ```
-xlaravel /path/to/your/website mywebsite
+xlaravel.sh /path/to/your/website mywebsite
 ```
