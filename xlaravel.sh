@@ -56,6 +56,8 @@ function xamppLaravel() {
     
     # Restart XAMPP
     restartXampp
+
+    echo "Website is running $localDomain"
 }
 
 # Function to restart XAMPP
